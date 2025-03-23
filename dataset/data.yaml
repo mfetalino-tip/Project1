@@ -1,0 +1,13 @@
+train: C:/Project/dataset/train
+val: C:/Project/dataset/val
+test: C:/Project/dataset/test
+
+nc: 17
+names: ['15deg', '16deg', '17deg', '18deg', '19deg', '20deg', '21deg', '22deg', '23deg', '24deg', '25deg', '26deg', '27deg', '28deg', '29deg', '30deg', 'Outside']
+
+roboflow:
+  workspace: pd-lmczm
+  project: needle-angle-2
+  version: 3
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/pd-lmczm/needle-angle-2/dataset/3
